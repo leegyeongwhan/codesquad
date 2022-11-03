@@ -1,4 +1,4 @@
-package com.example.codesquad.week1.misson2.mession2_1;
+package com.example.codesquad.week1.misson2.mission2_1;
 
 public class MyCalculator {
 
