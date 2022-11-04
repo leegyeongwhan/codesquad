@@ -10,11 +10,11 @@ public class Human {
         this.money = money;
     }
 
-    public int getMoney() {
-        return money;
-    }
-
     public String getName() {
         return name;
+    }
+
+    public int getMoney() {
+        return money;
     }
 }

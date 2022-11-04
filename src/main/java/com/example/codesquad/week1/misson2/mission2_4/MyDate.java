@@ -3,9 +3,9 @@ package com.example.codesquad.week1.misson2.mission2_4;
 public class MyDate {
     static int[] lastDay = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-    int day;
-    int month;
-    int year;
+    private int day;
+    private int month;
+    private int year;
 
     public MyDate(int day, int month, int year) {
         this.day = day;
@@ -28,8 +28,6 @@ public class MyDate {
             }
             return true;
         }
-
-
         return true;
     }
 
